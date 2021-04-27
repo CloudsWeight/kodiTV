@@ -1,13 +1,13 @@
 # kodiTV
 kodi + IPTV = v niiice &lt;3
 
-Note: This is only tested on Debian based distro
+Note: This is only tested on Debian based distro and script must be run as sudo 
 
-download this repository to folde of your choice.
+download this repository to folder of your choice.  
 
 chmod +x kodiTV.sh
 
-run kodi 
+sudo ./kodi 
 
 install AddOn PVR-ARGUSTV when prompted
 
