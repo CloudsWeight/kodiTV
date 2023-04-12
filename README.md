@@ -1,4 +1,4 @@
-# kodiTV
+# kodiTV  is no more unfortunately :(
 kodi + IPTV = v niiice &lt;3
 
 Note: This is only tested on Debian based distro and script must be run as sudo 
